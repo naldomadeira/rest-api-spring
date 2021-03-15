@@ -1,9 +1,10 @@
-![spring-api-rest](https://user-images.githubusercontent.com/1483851/111201386-77bc7380-85a1-11eb-8bc1-e97de07a52d2.png)
-
+![spring-api-rest](https://user-images.githubusercontent.com/1483851/111202285-7475b780-85a2-11eb-8b3b-a0fa302c8426.png)
 
 # Sample REST CRUD API with Java, Docker, Spring Boot, Mysql, JPA and Hibernate
-
-**Steps to Setup**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![!Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![!Mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## Components
 - Java OpenJDK 15
@@ -63,6 +64,6 @@ They were entirely carried out in the automated environment of insomnia. Insomni
 
 ![insomnia-api-rest](https://user-images.githubusercontent.com/1483851/111201462-90c52480-85a1-11eb-82d7-42cedb758aac.PNG)
 ## Credits
-This API was developed by Naldo Madeira
+This API was developed by Francinaldo Madeira
 
 ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/francinaldomadeira/)
