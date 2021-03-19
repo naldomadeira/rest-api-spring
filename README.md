@@ -66,4 +66,4 @@ They were entirely carried out in the automated environment of insomnia. Insomni
 ## Credits
 This API was developed by Francinaldo Madeira
 
-![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/francinaldomadeira/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/francinaldomadeira/)](https://www.linkedin.com/in/francinaldomadeira/)
